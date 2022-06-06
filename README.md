@@ -11,6 +11,7 @@ We use two data files to run this program.
 The first one is *MBTA_stations* containing the names of all MBTA stations (comma-separated values (CSV) format).
 Each line contains two fileds: the first field is the station ID and the second field is the corresponding station name.
 ```
+$ more ../data/MBTA_stations.txt
 0,Alewife
 1,Davis
 2,Porter
