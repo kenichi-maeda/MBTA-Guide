@@ -18,6 +18,7 @@ $ more ../data/MBTA_stations.txt
 3,Harvard
 4,Central
 5,Kendall/MIT
+...
 ```
 
 The second one is *MBTA_maps* containing information about the relationship between MBTA stations. 
