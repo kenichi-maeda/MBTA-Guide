@@ -1,0 +1,121 @@
+0,Alewife
+1,Davis
+2,Porter
+3,Harvard
+4,Central
+5,Kendall/MIT
+6,Charles/MGH
+7,Park St
+8,Downtown Crossing
+9,South Station
+10,Broadway
+11,Andrew
+12,JFK/UMass
+13,Savin Hill
+14,Fields Corner
+15,Shawmut
+16,Ashmont
+17,Cedar Grove
+18,Butler
+19,Milton
+20,Central Ave
+21,Valley Rd
+22,Capen St
+23,Mattapan
+24,North Quincy
+25,Wollaston
+26,Quincy Center
+27,Quincy Adams
+28,Braintree
+29,Bowdoin
+30,Government Center
+31,State
+32,Aquarium
+33,Maverick
+34,Airport
+35,Wood Island
+36,Olient Heights
+37,Suffolk Downs
+38,Beachmont
+39,Revere Beach
+40,Wonderland
+41,Oak Grove
+42,Malden Center
+43,Wellington
+44,Assembly Sq
+45,Sulivan Sq
+46,Community College
+47,North Station
+48,Haymarket
+49,Chinatown
+50,Tufts Medical
+51,Back Bay
+52,Mass. Ave
+53,Ruggles
+54,Roxbury Crossing
+55,Jackson Sq
+56,Stony Brook
+57,Green St
+58,Forest Hills
+59,LenchMere
+60,Science Park/West End
+61,Boylston
+62,Arlington
+63,Copley
+64,Hynes
+65,Kenmore
+66,Blandford St
+67,BU East
+68,BU Central
+69,BU West
+70,St.Paul St
+71,Pleasant St
+72,Babcock St
+73,Packards Corner
+74,Harvard Ave
+75,Griggs St
+76,Allston St
+77,Warren St
+78,Washington St
+79,Sutherland Rd
+80,Chiswick Rd
+81,Chestnut Hill Ave
+82,South St
+83,Boston College
+84,St.Marys St
+85,Hawes St
+86,Kent St
+87,St.Paul St
+88,Coolidge Corner
+89,Summit Ave
+90,Brandon Hall
+91,Fairbanks St
+92,Washington Sq
+93,Tappan St
+94,Dean Rd
+95,Englewood Ave
+96,Cleveland Circle
+97,Fenway
+98,Longwood
+99,Brookline Village
+100,Brookline Hills
+101,Beaconsfield
+102,Reservoir
+103,Chestnut Hill
+104,Newton Centre
+105,Newton Highlands
+106,Eliot
+107,Waban
+108,Woodland
+109,Riverside
+110,Prudential
+111,Symphony
+112,Northeastern
+113,Museum Fine Arts
+114,Longwood Medical
+115,Brigham Circle
+116,Fenwood Rd
+117,Mission Park
+118,Riverway
+119,Back of Hill
+120,Heath
