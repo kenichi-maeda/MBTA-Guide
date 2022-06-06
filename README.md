@@ -1,6 +1,6 @@
 # MBTA_Guide
 This program displays the shortest route and time for a given two MBTA stations, 
-realized by converting all MBTA routes into an EdgeWeightedGraph and using the Dijkstra's Algorithm.
+achieved by converting all MBTA routes into an EdgeWeightedGraph and using the Dijkstra's Algorithm.
 You can run this program by the following command:
 ```
 $ java MBTA_Guide data/MBTA_stations.txt data/MBTA_maps.txt
