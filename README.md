@@ -9,7 +9,7 @@ The first one is *MBTA_stations* containing the names of all MBTA stations (comm
 Each line contains two fileds: the first field is the station ID and the second field is the corresponding station name.
 The second one is *MBTA_maps* containing information about the relationship between MBTA stations. 
 The format of the file is as follows:
-'''
+```
 $ more ../data/MBTA_maps.txt
 121
 228
@@ -19,7 +19,7 @@ $ more ../data/MBTA_maps.txt
 2 1 2.00
 2 3 3.00
 ...
-'''
+```
 The first line shows the number of vertices (number of stations) in the graph, and the second line shows the number of edges. 
 The third and subsequent lines show any two points and the relationship between them, separated by spaces. 
 In this case, it means the time relationship between two stations. For example, 2.00 means that it takes 2 minutes to go 
